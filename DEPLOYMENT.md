@@ -169,9 +169,9 @@ server {
 
 ```
 
-### 使用Tomcat容器）
+### 使用Tomcat容器
 
-url-pattern 参数无法配置，未成功
+不支持Tomcat服务器，新版本将支持SpringBoot
 
 
 
