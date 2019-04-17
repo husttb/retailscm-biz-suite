@@ -5,7 +5,7 @@
 本系统代码是用自研知识图谱和因果网络处理系统自动生成高可维护源代码。
 
 
-概念和关系请请见：https://demo.doublechaintech.com/admin/retailscm/entities.html , 图比较大，需要拖动
+概念和关系请请见：https://demo2.doublechaintech.com/admin/retailscm/entities.html , 图比较大，需要拖动
 
 [部署指南 ](/DEPLOYMENT.md)
 
@@ -45,7 +45,7 @@
 |零售商店省中心|13900000002|DoubleChain!y1|
 |零售商店城市服务中心|13900000003|DoubleChain!y1|
 
-演示地址：https://demo.doublechaintech.com/admin/retailscm/#/home
+演示地址：https://demo2.doublechaintech.com/admin/retailscm/#/home
 
 
 ### 业务扩展
@@ -56,7 +56,7 @@
 |潜在客户|13900000005|DoubleChain!y1|
 
 
-演示地址：https://demo.doublechaintech.com/admin/retailscm/#/home
+演示地址：https://demo2.doublechaintech.com/admin/retailscm/#/home
 
 ### 落地业务运营
 
@@ -66,7 +66,7 @@
 |零售商店的会员|13900000007|DoubleChain!y1|
 
 
-演示地址：https://demo.doublechaintech.com/admin/retailscm/#/home
+演示地址：https://demo2.doublechaintech.com/admin/retailscm/#/home
 
 
 ### 采购和供应商管理
@@ -78,7 +78,7 @@
 |零售商店的订单|13900000011|DoubleChain!y1|
 
 
-演示地址：https://demo.doublechaintech.com/admin/retailscm/#/home
+演示地址：https://demo2.doublechaintech.com/admin/retailscm/#/home
 
 ### 仓配一体化管理
 | 角色        | 用户名           | 密码         |
@@ -100,7 +100,7 @@
 |员工|13900000020|DoubleChain!y1|
 
 
-演示地址：https://demo.doublechaintech.com/admin/retailscm/#/home
+演示地址：https://demo2.doublechaintech.com/admin/retailscm/#/home
 
 ### 用户权限管理
 
@@ -108,7 +108,7 @@
 | ------------- |:-------------:|:-------------------:|
 |用户域|13900000021|DoubleChain!y1|
 
-演示地址：https://demo.doublechaintech.com/admin/retailscm/#/home
+演示地址：https://demo2.doublechaintech.com/admin/retailscm/#/home
 
 ## bizcore: 服务器端核心代码项目， Business Core
 
