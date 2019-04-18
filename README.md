@@ -5,7 +5,6 @@
 本系统代码是用自研知识图谱和因果网络处理系统自动生成高可维护源代码。
 
 
-概念和关系请请见：https://demo.doublechaintech.com/admin/retailscm/entities.html , 图比较大，需要拖动
 
 [部署指南 ](/DEPLOYMENT.md)
 
@@ -90,7 +89,7 @@
 |会计凭证|13900000017|DoubleChain!y1|
 
 
-演示地址：https://demo.doublechaintech.com/admin/retailscm/#/home
+演示地址：https://demo2.doublechaintech.com/admin/retailscm/#/home
 
 
 ### 人力资源管理
